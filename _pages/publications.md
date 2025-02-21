@@ -8,7 +8,7 @@ author_profile: true
 <p><strong>Working Papers</strong>:</p>
 <ul>
 <li>
-<p class="p1">Propagation of Error: Approving Citations to Problematic Research <a href="http://kennethcor.com/wp-content/uploads/2018/08/error.pdf">(Link</a>).</p>
+<p class="p1">Propagation of Error: Approving Citations to Problematic Research <a href="https://github.com/recite/propagation_of_error/blob/master/ms/error.pdf">(Link</a>).</p>
 </li>
 </ul>
 <p><strong>Journal Articles</strong>:</p>
