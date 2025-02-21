@@ -11,7 +11,7 @@ title                    : "Kenneth Cor"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "Associate Research Professor"
-url                      : https://kennethcor.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gojiplus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gojiplus/gojiplus.github.io"
 
