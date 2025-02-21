@@ -1,0 +1,10 @@
+# main links links
+main:
+  - title: "CV"
+    url: /files/kencorcv.pdf
+        
+  - title: "Google Scholar"
+    url: https://scholar.google.com/citations?user=AmGmIBsAAAAJ&hl=en&oi=ao
+    
+  - title: "Research"
+    url: /pages/publications.html
