@@ -20,7 +20,7 @@ repository               : "corkencor/corkencor.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ken.jpg"
+  avatar           : "images/ken.jpg"
   name             : ""
   pronouns         : # example: "she/her"  
   bio              : "Associate Research Professor"
